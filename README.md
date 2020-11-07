@@ -1,11 +1,11 @@
 # wallet
 e-Wallet project. 
 
-#Project contains 2 subprojects:
+## Project contains 2 subprojects:
 * backend - Spring Boot backend to create, delete, top-up and withdraw wallet objects. Uses H2 file database.
 * frontend - React App to view, create and delete wallet objects
 
-#Technical Task
+## Technical Task
 
 Implement e-wallet with REST API to:
 - create it,
