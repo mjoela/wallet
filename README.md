@@ -25,5 +25,5 @@ Key points:
 Bonus points for any of:
 - Wallet to wallet transaction - TBD
 - Running within Docker infrastructure (Docker file, Docker-compose) - TBD
-- Backend test coverage - OK
+- Backend test coverage - 39% overall line coverage, 63% services class line coverage
 - Basic endpoint authorization (1 account for all) - TBD
